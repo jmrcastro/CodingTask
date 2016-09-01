@@ -1,0 +1,2 @@
+# CodingTask
+Equations interpreter.
