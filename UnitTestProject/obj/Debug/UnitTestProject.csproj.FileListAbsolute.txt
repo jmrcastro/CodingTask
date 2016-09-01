@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\bin\Debug\CodingTaskWindowsForms.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\bin\Debug\CodingTaskWindowsForms.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\bin\Debug\CodingTaskWindowsForms.exe
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\bin\Debug\CodingTaskWindowsForms.pdb
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\907973\Desktop\CodingTaskWindowsForms\UnitTestProject\obj\Debug\UnitTestProject.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.pdb
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.exe.config
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.exe
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\bin\Debug\CodingTaskWindowsForms.pdb
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.Form1.resources
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.Properties.Resources.resources
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.csproj.GenerateResource.Cache
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.exe
+C:\Users\907973\Desktop\CodingTaskWindowsForms\CodingTaskWindowsForms\obj\Debug\CodingTaskWindowsForms.pdb
